@@ -32,6 +32,6 @@ You can use the following audio samples for your drum machine:
 - HTML
 - CSS
 - JavaScript
-- - React
+- React
 
 [Drum machine](https://chris6six6.github.io/Drum-Machine/).
